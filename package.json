@@ -1,0 +1,22 @@
+{
+  "name": "meu-primeiro-projeto-nodejs",
+  "version": "1.0.0",
+  "description": "Desafio proposto por Felipão Dio, no intuito de trabalhar os primeiros conceitos de NodeJS",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesskaBasilio/formacao-nodejs.git"
+  },
+  "author": "Jessica-Basilio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesskaBasilio/formacao-nodejs/issues"
+  },
+  "homepage": "https://github.com/JesskaBasilio/formacao-nodejs#readme"
+}
