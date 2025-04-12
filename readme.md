@@ -1,4 +1,5 @@
 <h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
+<p>Realizado por Jessica Basilio</p>
 
   <table>
         <tr>
@@ -101,3 +102,12 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+
+<b><br><h2>Desafios propostos por Felipão:🔥🔥🔥</h2></b>
+
+<ul>
+  <li><input type="checkbox" id="evento-especial" /> <label for="evento-especial">Sortear aleatoriamente se é um CASCO (-1 ponto) ou uma BOMBA (-2 pontos)</label></li>
+  <li><input type="checkbox" id="ponto-bonus" /> <label for="pistas-2-item">Quem vencer o confronto ganha um ponto turbo aleatoriamente</label>
+
+  <b><br>Desafio realizado com sucesso! 🏆🎉🌟</b>
